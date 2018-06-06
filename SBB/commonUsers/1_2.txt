@@ -1,0 +1,36 @@
+SBB/SBB_1320_1350.csv - SBB/SBB_1700_1730.csv
+34
+
+Cisco_55:06:c2
+Cisco_9e:5a:83
+Cisco_55:0a:1c
+Cisco_72:d8:b2
+Cisco_54:cf:70
+Cisco_55:05:b0
+Cisco_cc:72:91
+ArubaNet_24:0a:18
+Cisco_cc:72:90 (7c:95:f3:cc:72:90) (TA)
+172.217.3.170
+XeroxXer_aa:03:00
+70:26:ac:6b:12:fe
+Cisco_6b:12:56
+00:00:00_00:00:00
+Cisco_cc:72:90
+131.252.120.128
+Cisco_55:0a:13
+Cisco_cc:58:f2
+Cisco_55:05:b3
+Cisco_9e:5a:82
+IntelCor_e4:3d:dd (00:21:6b:e4:3d:dd) (TA)
+14:4e:00:00:14:4e
+Cisco_55:05:b2
+Cisco_9e:5a:81
+Cisco_cc:72:92
+Cisco_55:0a:12
+Cisco_55:05:b1
+Cisco_cc:72:93
+Cisco_6b:12:fe
+Cisco_01:fc:20
+Cisco_9e:5a:80
+Cisco_55:06:c1
+172.217.3.165

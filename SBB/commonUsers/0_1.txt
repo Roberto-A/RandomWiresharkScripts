@@ -1,0 +1,86 @@
+SBB/0900_0930.csv - SBB/1320_1350.csv
+84
+
+f9:26:ac:6b:12:fe
+::
+Cisco_6b:12:fe
+Cisco_55:06:c0
+Cisco_55:05:b0
+Cisco_9e:5a:80
+e6:fe:07:6e:9e:f0
+Cisco_55:06:c3
+Cisco_cc:58:f0 (7c:95:f3:cc:58:f0) (TA)
+86:25:19:14:c6:4f
+ArubaNet_24:0a:11
+172.217.3.170
+0.0.0.0
+Cisco_55:05:b2
+Cisco_72:d8:b1
+Pegatron_6e:9e:f0
+Cisco_cc:58:f2
+Broadcast
+Apple_41:53:e9
+Cisco_01:fc:20
+Cisco_55:06:c1
+ArubaNet_24:0a:10
+216.58.193.74
+Cisco_55:06:c2
+Cisco_cc:72:93
+Cisco_55:0a:13
+Cisco_cc:72:9e
+Cisco_01:fc:23
+5a:ef:68:ff:50:3d
+Cisco_cc:72:9c
+Cisco_01:fc:21
+Cisco_55:0a:10
+Cisco_cc:72:90
+172.217.3.202
+Cisco_55:0a:11
+Cisco_bf:81:c0
+Cisco_55:0a:1e
+172.217.3.206
+Cisco_cc:58:f3
+Cisco_cc:58:f0
+Cisco_cc:72:90 (7c:95:f3:cc:72:90) (TA)
+Cisco_6b:12:56
+Cisco_cc:72:92
+ArubaNet_24:0a:19
+70:26:ac:6b:12:fe
+31.13.76.84
+ArubaNet_24:0a:18 (9c:1c:12:24:0a:18) (TA)
+IntelCor_e4:3d:dd
+ArubaNet_24:0a:18
+Cisco_6b:12:ea
+131.252.120.128
+00:00:00_00:00:00
+XeroxXer_aa:03:00
+Pegatron_6e:9e:f0 (dc:fe:07:6e:9e:f0) (TA)
+Cisco_55:0a:1c
+Cisco_55:05:b3
+10.1.249.1
+42:26:ac:6b:12:fe
+Cisco_9e:5a:83
+14:4e:00:00:14:4e
+31.13.76.102
+Cisco_72:d8:b0
+IntelCor_d8:77:5f
+Cisco_55:0a:1f
+Cisco_55:05:b1
+131.252.111.20
+Cisco_54:cf:70
+8.8.8.8
+Cisco_cc:58:f1
+Cisco_55:0a:12
+Cisco_cc:72:9d
+SamsungE_e6:3c:7d
+Cisco_9e:5a:82
+172.217.3.165
+IntelCor_e4:3d:dd (00:21:6b:e4:3d:dd) (TA)
+8.8.4.4
+Cisco_cc:72:91
+Cisco_cc:58:f2 (7c:95:f3:cc:58:f2) (TA)
+Cisco_55:0a:10 (7c:95:f3:55:0a:10) (TA)
+31.13.76.107
+BelkinIn_ff:50:3d
+Cisco_72:d8:b2
+Cisco_01:fc:22

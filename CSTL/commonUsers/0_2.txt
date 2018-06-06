@@ -1,0 +1,31 @@
+CSTL/CSTL_0915_0950.csv - CSTL/CSTL_1710_1743.csv
+29
+
+Cisco_cc:6e:af (7c:95:f3:cc:6e:af) (TA)
+Cisco_df:c7:00
+Cisco_68:7e:b0
+Cisco_cc:6e:a0
+Cisco_d1:3f:ad
+Cisco_68:7e:c0
+Cisco_cc:6e:ad (7c:95:f3:cc:6e:ad) (TA)
+Cisco_cc:bb:a0
+IntelCor_35:22:e2
+Cisco_48:bf:90
+Cisco_6b:12:7e
+Cisco_cc:6e:ac
+Cisco_7a:ba:c0
+Cisco_bf:81:c0
+IntelCor_19:71:cb
+Cisco_cc:6e:ae
+Cisco_cc:6e:af
+Cisco_6b:12:fe
+Cisco_2d:5a:a0
+Cisco_d1:3f:a0
+Cisco_60:bf:c0
+00:00:00_00:00:00
+Cisco_72:de:f0
+Cisco_cc:6e:ad
+Cisco_78:5f:60
+10.1.249.1
+IntelCor_60:72:dc
+Cisco_cc:67:10
